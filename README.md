@@ -1,0 +1,1 @@
+# Grouped_Convolution-Based_Bearing_Fault_Detection
