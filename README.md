@@ -14,6 +14,6 @@
 ![Method](./image/gradual_grouped_convolution_ch_attention.PNG)
 
 
-## Result
+## Noise Robustness Evaluation
 
 ![Result](./image/noise_robustness_test.png)
