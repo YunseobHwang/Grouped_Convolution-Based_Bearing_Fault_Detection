@@ -2,6 +2,13 @@
 
 ## Hilbert Huang Transform
 
+### Intrinsic Mode Functions (IMFs) by Empirical Mode Decomposition (EMD)
+![EMD](./image/empirical_mode_decomposition.PNG)
+
+### Hilbert Spectral Analysis
+![HSA](./image/hilbert_spectral_analysis.PNG)
+
+
 ## Gradual Grouped Convolution and Following Channel Attention
 
 ![Method](./image/gradual_grouped_convolution_ch_attention.PNG)
